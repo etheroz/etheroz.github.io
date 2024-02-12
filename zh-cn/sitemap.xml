@@ -2,8 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://etheroz.github.io/helloworld/</loc><lastmod>2024-02-11T18:49:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://etheroz.github.io/</loc><lastmod>2024-02-11T18:49:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://etheroz.github.io/</loc><lastmod>2024-02-12T00:26:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://etheroz.github.io/en/"
@@ -12,7 +11,9 @@
                     hreflang="zh-cn"
                     href="https://etheroz.github.io/"
                     /></url><url>
-            <loc>https://etheroz.github.io/posts/</loc><lastmod>2024-02-11T18:49:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://etheroz.github.io/posts/</loc><lastmod>2024-02-12T00:26:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://etheroz.github.io/setting_up_a_hugo_website_on_github/</loc><lastmod>2024-02-12T00:26:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://etheroz.github.io/helloworld/</loc><lastmod>2024-02-11T18:49:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://etheroz.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

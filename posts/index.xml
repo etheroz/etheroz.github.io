@@ -3,7 +3,17 @@
         <title>所有文章 - My Blog</title>
         <link>https://etheroz.github.io/posts/</link>
         <description>所有文章 | My Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 11 Feb 2024 18:49:18 &#43;0800</lastBuildDate><atom:link href="https://etheroz.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Feb 2024 00:26:17 &#43;0800</lastBuildDate><atom:link href="https://etheroz.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Setting_up_a_hugo_website_on_github</title>
+    <link>https://etheroz.github.io/setting_up_a_hugo_website_on_github/</link>
+    <pubDate>Mon, 12 Feb 2024 00:26:17 &#43;0800</pubDate>
+    <author>etheroz</author>
+    <guid>https://etheroz.github.io/setting_up_a_hugo_website_on_github/</guid>
+    <description><![CDATA[Steps   Find out which static site generator suits me the best
+ Jekyll - Ruby Hexo - Node.js Hugo - Go Hugo is the fastest, and it has less dependency issues.    Install Go
+ To install golang-1.18.1 on Ubuntu 22.04 jammy  1  apt install golang    To install newer golang on Ubuntu 22.04 jammy  1 2 3  sudo add-apt-repository ppa:longsleep/golang-backports sudo apt update sudo apt install golang-1.]]></description>
+</item>
+<item>
     <title>Helloworld</title>
     <link>https://etheroz.github.io/helloworld/</link>
     <pubDate>Sun, 11 Feb 2024 18:49:18 &#43;0800</pubDate>
